@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Bridget Sampong!  
 
-<!--
-**Basampong/Basampong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm an **aspiring data analyst** passionate about turning raw data into meaningful insights. With a background in **Natural Resources Management**, I aim to leverage **data analysis, visualization, and business intelligence** to drive data-driven decisions.  
 
-Here are some ideas to get you started:
+📊 **Data Analytics | SQL | Excel | Python | Power BI**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Always exploring new ways to optimize **data storytelling** and solve real-world problems using data!  
+
+---
+
+## 💡 What I Do  
+✅ **Data Analysis & Visualization** - Extracting insights using **Excel, Python (Pandas, Matplotlib, Seaborn), Power BI**  
+✅ **SQL Database Management** - Querying and managing **relational databases**  
+✅ **Business Intelligence** - Creating **interactive dashboards** for reporting  
+✅ **Virtual Assistance** - Organizing tasks and managing administrative work efficiently  
+
+---
+
+## 🔥 Skills  
+- **Data Cleaning & Transformation** (Excel, Pandas)  
+- **SQL Querying & Relational Databases**  
+- **Power BI**
